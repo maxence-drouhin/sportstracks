@@ -19,4 +19,4 @@ Regenerate autoloads by typing the following command:
 
 php bin/php/ezpgenerateautoloads.php -o
 
-Then create content article with object 61 (Todo: this id should not be hardcoded in override.ini, use class identifier instead)
+Then create content article with object id 61 (Todo: this id should not be hardcoded in override.ini, use class identifier instead)
