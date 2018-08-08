@@ -1,0 +1,21 @@
+img{
+display:none;
+}
+h4 {
+    color: #337ab7;
+}
+body{ background:#fff; display: block;}
+
+.main{
+    margin-top:0;
+    padding-top: 20px;
+}
+#intro  u{
+    font-family:"MS Sans Serif",​sans-serif,​Verdana,​Arial;
+}
+footer{
+    text-transform: initial !important;
+
+
+}
+
